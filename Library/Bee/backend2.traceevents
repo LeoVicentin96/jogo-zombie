@@ -1,0 +1,503 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1695342749640839, "dur":71, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342749641077, "dur":42452, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342749683546, "dur":875, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342749684472, "dur":56, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1695342749684528, "dur":869, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342749685485, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1695342749685597, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1695342749685692, "dur":156, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1695342749685857, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1695342749685978, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1695342749686106, "dur":139, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1695342749686255, "dur":163, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1695342749686425, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1695342749686536, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1695342749686647, "dur":146, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1695342749686801, "dur":174, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1695342749686982, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1695342749687103, "dur":157, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1695342749687267, "dur":144, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":0, "ts":1695342749687418, "dur":138, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1695342749687565, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1695342749687677, "dur":409, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1695342749688260, "dur":130, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1695342749688397, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1695342749688539, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1695342749688668, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749688809, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749688901, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749689029, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749689143, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749689280, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749689406, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749689511, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749689628, "dur":186, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749689823, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749689948, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749690084, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749690202, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749690417, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749690518, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749690631, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749690749, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749690850, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749690952, "dur":114, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749691071, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749691166, "dur":134, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749691305, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749691406, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749691502, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749691599, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749691695, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749691790, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749691885, "dur":157, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749692073, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749692169, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749692265, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749692393, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749692498, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749692596, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749692691, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749692801, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749692910, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749693011, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749693131, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749693228, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749693330, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749693425, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749693534, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749693648, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749693809, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749693904, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749694012, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749694114, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749694221, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749694320, "dur":154, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749694486, "dur":163, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749694657, "dur":156, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749694820, "dur":133, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749694960, "dur":181, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749695149, "dur":145, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749695301, "dur":134, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749695441, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749695560, "dur":127, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749695693, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749695787, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749695972, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749696076, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749696192, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749696286, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749696385, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749696490, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749696595, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749696716, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749696820, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749696927, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749697024, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749697122, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749697218, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749697319, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749697413, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749697528, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749697685, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749697784, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749697881, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749698009, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749698106, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749698206, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749698325, "dur":134, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749698466, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749698588, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749698708, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749698829, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749698953, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749699068, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749699200, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749699323, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749699443, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749699584, "dur":118, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749699707, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749699825, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749699947, "dur":182, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749700148, "dur":142, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1695342749700297, "dur":130, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1695342749700434, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1695342749700577, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta.exe" }}
+,{ "pid":12345, "tid":0, "ts":1695342749700720, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749700863, "dur":143, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749701012, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1695342749701160, "dur":134, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1695342749701300, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1695342749701447, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1695342749701574, "dur":144, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1695342749701725, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1695342749701842, "dur":131, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1695342749702024, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1695342749702148, "dur":150, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1695342749702306, "dur":151, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1695342749702464, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1695342749702581, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1695342749702701, "dur":195, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1695342749702903, "dur":153, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1695342749703062, "dur":160, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1695342749703229, "dur":164, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1695342749703402, "dur":159, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1695342749703570, "dur":168, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1695342749703745, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1695342749703845, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1695342749685462, "dur":18491, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342749703955, "dur":796013, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342750499970, "dur":311, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342750500282, "dur":86, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342750500477, "dur":52, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342750501142, "dur":67, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342750501142, "dur":68, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342750501211, "dur":19681, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1695342749686146, "dur":17831, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695342749703987, "dur":11315, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695342749733714, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695342749732187, "dur":1632, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1695342749733826, "dur":161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1695342749734012, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1695342749734803, "dur":236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Leonardo Vicentin\\Projeto-Unity\\apocalipse-zumbi-alura\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695342749735043, "dur":295, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Leonardo Vicentin\\Projeto-Unity\\apocalipse-zumbi-alura\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695342749735341, "dur":1703, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Leonardo Vicentin\\Projeto-Unity\\apocalipse-zumbi-alura\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695342749737048, "dur":862, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Leonardo Vicentin\\Projeto-Unity\\apocalipse-zumbi-alura\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695342749737914, "dur":498, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Leonardo Vicentin\\Projeto-Unity\\apocalipse-zumbi-alura\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695342749738415, "dur":1218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Leonardo Vicentin\\Projeto-Unity\\apocalipse-zumbi-alura\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695342749739837, "dur":185, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerb5b60f3b-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1695342749733823, "dur":6486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1695342749740755, "dur":100, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695342750477173, "dur":143, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695342749742157, "dur":735201, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1695342750495411, "dur":559, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1695342750495408, "dur":564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1695342750499509, "dur":106, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695342750496046, "dur":3604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1695342749686320, "dur":17677, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749705487, "dur":584, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749704023, "dur":2456, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749706480, "dur":8866, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749715415, "dur":966, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1695342749715349, "dur":1036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1695342749737155, "dur":3261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1695342749740489, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749740487, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749782774, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749742057, "dur":40996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749783315, "dur":5671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749794738, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749789116, "dur":5710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749794976, "dur":4562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749803949, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749799765, "dur":4274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749814795, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749804188, "dur":10790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749820672, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749815368, "dur":5442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749825934, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749821000, "dur":5014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749826133, "dur":5368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749835648, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749831619, "dur":4261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749836080, "dur":6450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749842677, "dur":3925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749853377, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749846711, "dur":6772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749853587, "dur":221, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342749853581, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342750131473, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695342749853847, "dur":277786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695342750131729, "dur":368065, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749686494, "dur":17543, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749704048, "dur":2044, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749706093, "dur":9242, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749715380, "dur":158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1695342749715336, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1695342749725705, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749717107, "dur":8679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1695342749725869, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1695342749728886, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749726107, "dur":2876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1695342749729089, "dur":232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695342749729085, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695342749729822, "dur":2334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695342749732233, "dur":191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1695342749732230, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1695342749732504, "dur":3688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1695342749736264, "dur":233, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695342749736261, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695342749739564, "dur":140, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749737015, "dur":2709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695342749739804, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749739799, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749740338, "dur":5533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749756700, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749747216, "dur":9585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749756902, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749764951, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749756963, "dur":8220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749768548, "dur":199, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749765464, "dur":3343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749772894, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749768940, "dur":4283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749773400, "dur":88, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749789968, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749773505, "dur":16543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749790180, "dur":4678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749794994, "dur":7210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749806761, "dur":303, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749802383, "dur":4710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749807253, "dur":10359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749817794, "dur":3388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749821324, "dur":6900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749832954, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749828375, "dur":4665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749833224, "dur":4686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749838024, "dur":7700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749851762, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749845820, "dur":6022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749859412, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749851993, "dur":7563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695342749859833, "dur":88, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342750000336, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695342749859943, "dur":140509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1695342750000560, "dur":499213, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749686666, "dur":17400, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749704673, "dur":528, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749704078, "dur":2472, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749706551, "dur":8823, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749715466, "dur":299, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1695342749715395, "dur":373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1695342749732876, "dur":2402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1695342749735352, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1695342749738799, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749736209, "dur":2703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1695342749739022, "dur":402, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1695342749739019, "dur":408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1695342749739441, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749739518, "dur":8821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1695342749762309, "dur":278, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749749015, "dur":13599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749769129, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749762773, "dur":6461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749776612, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749769442, "dur":7459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749785813, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749777106, "dur":8983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749791373, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749786497, "dur":4968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749796813, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749791612, "dur":5286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749801035, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749797111, "dur":4039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749805141, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749801284, "dur":3959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749810166, "dur":123, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749805402, "dur":4940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749820739, "dur":154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749810676, "dur":10252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749827638, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749821112, "dur":6782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749844845, "dur":433, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749828136, "dur":17167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749850771, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749845508, "dur":5468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749856595, "dur":93, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749851205, "dur":5533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695342749878713, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749856997, "dur":21920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1695342749884296, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749879279, "dur":5137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1695342749884622, "dur":407, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749952968, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695342749885409, "dur":67881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1695342749953771, "dur":546051, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749686768, "dur":17326, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749704105, "dur":1772, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749705879, "dur":685, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749706565, "dur":8789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749715356, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1695342749738828, "dur":269, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749736107, "dur":3006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1695342749739225, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1695342749745270, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749739979, "dur":5388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1695342749774749, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749747024, "dur":27836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749784227, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749775041, "dur":9302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749791386, "dur":115, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749784701, "dur":6821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749798788, "dur":123, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749791651, "dur":7287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749802583, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749799097, "dur":3698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749808443, "dur":207, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749802937, "dur":5750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749818180, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749808909, "dur":9370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749824417, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749818479, "dur":6088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749830867, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749824732, "dur":6261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749835598, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749831270, "dur":4415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749844205, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749835978, "dur":8322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749951831, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695342749844560, "dur":108724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695342749957187, "dur":542602, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749686884, "dur":17262, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749704162, "dur":2001, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749706164, "dur":9198, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749715364, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1695342749742222, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749734986, "dur":7326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1695342749742403, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":6, "ts":1695342749742402, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta.exe" }}
+,{ "pid":12345, "tid":6, "ts":1695342749742514, "dur":2892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta.exe" }}
+,{ "pid":12345, "tid":6, "ts":1695342749756720, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749747191, "dur":9642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749766487, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749756941, "dur":9649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749776122, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749766822, "dur":9385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749776434, "dur":10806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749794170, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749787405, "dur":6955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749794518, "dur":4914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749802545, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749799582, "dur":3069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749814100, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749802785, "dur":11418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749814386, "dur":5686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749820229, "dur":7175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749827516, "dur":4373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749835886, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749831989, "dur":3972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749836093, "dur":4321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749840594, "dur":5126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749845794, "dur":135, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749851950, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749845934, "dur":6116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749858041, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749852160, "dur":6009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695342749869684, "dur":100, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749858349, "dur":11717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1695342749900142, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749870330, "dur":29922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1695342749909005, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749900489, "dur":8631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1695342749943272, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749909298, "dur":34182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1695342749943930, "dur":79, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749950399, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695342749944016, "dur":6471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1695342749950577, "dur":549176, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749687058, "dur":17112, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749704179, "dur":2298, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749706478, "dur":8921, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749715401, "dur":319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1695342749723788, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749719503, "dur":4516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1695342749724168, "dur":254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1695342749724163, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1695342749727369, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749724989, "dur":2465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1695342749727526, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1695342749730599, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749728422, "dur":2284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1695342749730795, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1695342749733570, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749731136, "dur":2505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1695342749733716, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1695342749738804, "dur":141, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749733978, "dur":4983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1695342749739031, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1695342749744083, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749739259, "dur":4906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1695342749744258, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1695342749745201, "dur":12909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1695342749768542, "dur":132, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749758227, "dur":10494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749771708, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749768910, "dur":3476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749783189, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749772690, "dur":10633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749783493, "dur":1680, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Leonardo Vicentin\\Projeto-Unity\\apocalipse-zumbi-alura\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749783466, "dur":1712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749790879, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749785265, "dur":5697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749791204, "dur":6200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749813147, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749797549, "dur":15787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749813503, "dur":5459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749824348, "dur":121, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749819161, "dur":5333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749829987, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749824662, "dur":5411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749833229, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749830172, "dur":3168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749837085, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749833489, "dur":3679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749844990, "dur":369, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749837311, "dur":8064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749845457, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749848729, "dur":178, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749845530, "dur":3410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749854015, "dur":97, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749849231, "dur":4911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695342749881100, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749854288, "dur":27035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":7, "ts":1695342749884604, "dur":124, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749881547, "dur":3230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1695342749892734, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749884990, "dur":7851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/level1.resS" }}
+,{ "pid":12345, "tid":7, "ts":1695342749917240, "dur":298, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749892998, "dur":24569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1695342749943278, "dur":1871, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749917964, "dur":27502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1695342749950722, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695342749945803, "dur":5019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1695342749950917, "dur":548865, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749687253, "dur":17214, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749704832, "dur":561, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity Hub\\Unity 2022.3.8f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749704468, "dur":2102, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749706570, "dur":8758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749715388, "dur":169, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749737228, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749734836, "dur":2483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1695342749737323, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1695342749745988, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749737754, "dur":8325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1695342749771281, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749747243, "dur":24214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749788205, "dur":141, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749771645, "dur":16976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749797251, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749788938, "dur":8392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749801829, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749797506, "dur":4412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749804501, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749802237, "dur":2352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749812924, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749805088, "dur":7956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749822689, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749813347, "dur":9624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749829719, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749823226, "dur":6584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749835003, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749829958, "dur":5136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749844843, "dur":259, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749835256, "dur":9877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749849575, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749845312, "dur":4430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749855314, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749849940, "dur":5503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695342749968873, "dur":274, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695342749855788, "dur":113461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Leonardo Vicentin/Desktop/Jogo-Zumbi-PC/Zombies Chaos - Beta_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1695342749969514, "dur":530471, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695342750533788, "dur":6577, "ph":"X", "name": "ProfilerWriteOutput" }
+,
